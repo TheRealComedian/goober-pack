@@ -1,9 +1,16 @@
 {
   "entity.minecraft.blaze": "420 Blaze",
+  "entity.minecraft.ghast": "Shast",
 
   "item.minecraft.blaze_rod": "Joint",
   "item.minecraft.blaze_powder": "Weed",
+  "item.minecraft.ghast_tear": "Hot Sauce",
+  "item.minecraft.fire_charge": "Fireball",
 
   "advancements.nether.obtain_blaze_rod.title": "Smoke Weed Everyday",
-  "advancements.nether.obtain_blaze_rod.description": "Cop a Joint from a 420 Blaze"
+  "advancements.nether.obtain_blaze_rod.description": "Cop a Joint from a 420 Blaze",
+  "advancements.nether.return_to_sender.title": "Get a Load of This!",
+  "advancements.nether.return_to_sender.description": "Kill a Shast with it's own Fireball",
+  "advancements.nether.uneasy_alliance.title": "Ope",
+  "advancements.nether.uneasy_alliance.description": "Kill a Shast while in the Overworld"
 }

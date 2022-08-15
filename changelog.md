@@ -22,13 +22,54 @@ Added 420 Blaze
 +   hit3.ogg
 +   hit4.ogg
 +   en_lang.json: "entity.minecraft.blaze": "420 Blaze"
+
 Added Joint
 +   blaze_rod.png
 +   en_lang.json: "item.minecraft.blaze_rod": "Joint"
+
 Added Weed
 +   blaze_powder.png
 +   en_lang.json: "item.minecraft.blaze_powder": "Weed"
+
 Added 'Smoke Weed Everyday' Advancement
-+   en_lang.json: "advancements.nether.obtain_blaze_rod.title": "Smoke Weed Everyday"
-+   en_lang.json: "advancements.nether.obtain_blaze_rod.description": "Cop a Joint from a 420 Blaze"
++   en_lang.json {"advancements.nether.obtain_blaze_rod.title": "Smoke Weed Everyday"}
++   en_lang.json {"advancements.nether.obtain_blaze_rod.description": "Cop a Joint from a 420 Blaze"}
+
+Added Shast
++   charge.ogg
++   death.ogg
++   moan1.ogg
++   moan2.ogg
++   moan3.ogg
++   moan4.ogg
++   moan5.ogg
++   moan6.ogg
++   moan7.ogg
++   scream1.ogg
++   scream2.ogg
++   scream3.ogg
++   scream4.ogg
++   scream5.ogg
++   affectionate_scream.ogg
++   ghast.png
++   ghast_shooting.png
++   fireball4.ogg
++   en_lang.json {"entity.minecraft.ghast": "Shast"}
+
+Added Hot Sauce
++   ghast_tear.png
++   en_lang.json {"item.minecraft.ghast_tear": "Hot Sauce"}
+
+Added 'Get a Load of This!' Advancement
++   en_lang.json {"advancements.nether.return_to_sender.title": "Get a Load of This!"}
++   en_lang.json {"advancements.nether.return_to_sender.description": "Kill a Shast with it's own Fireball"}
+
+Added 'Ope' Advancement
++   en_lang.json {"advancements.nether.uneasy_alliance.title": "Ope"}
++   en_lang.json {"advancements.nether.uneasy_alliance.description": "Betray a Shast after bringing it to the overworld"}
+
+Added Fireball
++   en_lang.json {"item.minecraft.fire_charge": "Fireball"}
++   fire_charge.png
+
 ```
