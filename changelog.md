@@ -9,6 +9,8 @@
 + Initialize Repository
 + Add Changelog
 + Add README
++ sounds.js
+
 
 Added 420 Blaze
 +   blaze.png
@@ -72,4 +74,24 @@ Added Fireball
 +   en_lang.json {"item.minecraft.fire_charge": "Fireball"}
 +   fire_charge.png
 
+Added CREEPER
++   creeper.png
++   creeper_armor.png
++   en_lang.json {"entity.minecraft.creeper": "CREEPER"}
++   en_lang.json {"block.minecraft.creeper_wall_head": "CREEPER Wall Head"}
++   en_lang.json {"block.minecraft.creeper_head": "CREEPER Head"}
++   fuse.ogg
++   explode1.ogg
++   explode2.ogg
++   explode3.ogg
++   explode4.ogg
++   death.ogg
++   say1.ogg
++   say2.ogg
++   say3.ogg
++   say4.ogg
+
+Added Wire Spaghetti
++   gunpowder.png
++   en_lang.json {"item.minecraft.gunpowder": "Wire Spaghetti"}
 ```

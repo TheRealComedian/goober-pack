@@ -17,3 +17,7 @@ A Minecraft resource pack full of all kinds of shenanigans
 ## Contributions
 To suggest features add them to the sheet
 To submit a feature to be added directly create a pull request on the repository, or contact me directly
+
+## Issues
+### Issues with Minecraft
+* Creeper uses slowed version of fuse.ogg from TNT. to my knowledge this cannot be changed, but I will continue to look into it. until then I decided the TNT fuse sound was more integral than the creeper fuse.
