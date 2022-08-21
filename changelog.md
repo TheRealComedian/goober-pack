@@ -94,4 +94,21 @@ Added CREEPER
 Added Wire Spaghetti
 +   gunpowder.png
 +   en_lang.json {"item.minecraft.gunpowder": "Wire Spaghetti"}
+
+Added Fried Chicken
++   silverfish.png
++   kill.ogg
++   say1.ogg
++   en_lang.json {"entity.minecraft.silverfish": "Fried Chicken"}
++   say2.ogg
++   say4.ogg
++   say3.ogg
++   hit1.ogg
++   hit2.ogg
++   hit3.ogg
++   step1.ogg
++   step2.ogg
++   step3.ogg
++   step4.ogg
+
 ```
