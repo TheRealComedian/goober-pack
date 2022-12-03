@@ -3,15 +3,18 @@
   "entity.minecraft.ghast": "Shast",
   "entity.minecraft.creeper": "CREEPER",
   "entity.minecraft.silverfish": "Fried Chicken",
+  "entity.minecraft.slime": "Gwyneth Paltrow",
 
   "item.minecraft.blaze_rod": "Joint",
   "item.minecraft.blaze_powder": "Weed",
   "item.minecraft.ghast_tear": "Hot Sauce",
   "item.minecraft.fire_charge": "Fireball",
   "item.minecraft.gunpowder": "Wire Spaghetti",
+  "item.minecraft.slime_ball": "Goop",
 
   "block.minecraft.creeper_wall_head": "CREEPER Wall Head",
   "block.minecraft.creeper_head": "CREEPER Head",
+  "block.minecraft.slime_block": "Psychic Vampire Repellent",
 
   "advancements.nether.obtain_blaze_rod.title": "Smoke Weed Everyday",
   "advancements.nether.obtain_blaze_rod.description": "Cop a Joint from a 420 Blaze",

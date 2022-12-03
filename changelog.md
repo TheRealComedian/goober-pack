@@ -111,4 +111,28 @@ Added Fried Chicken
 +   step3.ogg
 +   step4.ogg
 
+Added Gwyneth Paltrow
++   attack1.ogg
++   attack2.ogg
++   big1.ogg
++   big2.ogg
++   big3.ogg
++   big4.ogg
++   small1.ogg
++   small2.ogg
++   small3.ogg
++   small4.ogg
++   small5.ogg
++   en_lang.json {"entity.minecraft.slime": "Gwyneth Paltrow"}
++   slime.png
+
+Added Goop
++   en_lang.json {"item.minecraft.slime_ball": "Goop"}
++   slime_ball.png
+
+Added Psychic Vampire Repellent
++   slime_block.png
++   en_lang.json {"block.minecraft.slime_block": "Psychic Vampire Repellent"}
+
+
 ```
