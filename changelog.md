@@ -1,9 +1,10 @@
 # Changelog
 ## Versions
-* 1 [Full Release]
-    * 1.0 
+* 1.X.X
+    * [1.0.X](./changelog.md#hostile-mobs-10x) - Hostile Mobs Vol. 1
         * [1.0.0](./changelog.md#100)
 
+## Hostile Mobs 1.0.X
 ### 1.0.0
 ```diff
 + Initialize Repository
@@ -134,5 +135,29 @@ Added Psychic Vampire Repellent
 +   slime_block.png
 +   en_lang.json {"block.minecraft.slime_block": "Psychic Vampire Repellent"}
 
+Added PPLEKN
++   death1.ogg
++   death2.ogg
++   idle1.ogg
++   idle2.ogg
++   idle3.ogg
++   hurt1.ogg
++   hurt2.ogg
++   hurt3.ogg
++   hurt4.ogg
++   step1.ogg
++   step2.ogg
++   step3.ogg
++   step4.ogg
++   wither_skeleton.png
++   en_lang.json {"entity.minecraft.wither_skeleton": "PPLEKN"}
+
+Added 'My Movie' Advancement
++   en_lang.json {"advancements.nether.get_wither_skull.title": "My Movie"}
++   en_lang.json {"advancements.nether.get_wither_skull.description": "DIRECTED BY [Enter your name here]"}
+
+Added PPLEKN PRNDL
++   en_lang.json {"block.minecraft.wither_skeleton_wall_skull": "wall PPLEKN PRNDL"}
++   en_lang.json {"block.minecraft.wither_skeleton_skull": "PPLEKN PRNDL"}
 
 ```
